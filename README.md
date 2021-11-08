@@ -50,7 +50,7 @@ Remember to change output with your real output!
 
 
 
-### CONFIG2
+### CONFIG 2
 With [this configuration](geolocalization.conf)  you can geolocate IP addresses
 
 Remeber to copy the following [file](GeoLite2-City.mmdb) under /home/ubuntu/GeoIP
