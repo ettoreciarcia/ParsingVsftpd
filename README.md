@@ -2,6 +2,11 @@
 A simple python script to parse your Vsftpd log into ndjson format!
 This will make your life easier in case you decide to use "json" module in the configuration file of your Logstash!
 
+During a project we ran into a problem: parsing the vsftpd log input.
+We looked for Filebeat or Logstash modules that would allow us to do this, but there aren't any.
+
+We therefore decided to write our own parsing function
+
 ## Install dependencies
 
 ```pip3 install python-dateutil ndjson```
