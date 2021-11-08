@@ -1,7 +1,0 @@
-Wed Nov  3 15:22:10 2021 [pid 22844] CONNECT: Client "::ffff:82.59.13.178"
-Wed Nov  3 15:22:19 2021 [pid 22841] [dakota] FAIL LOGIN: Client "::ffff:82.59.13.178"
-Wed Nov  3 15:22:28 2021 [pid 22856] CONNECT: Client "::ffff:82.59.13.178"
-Wed Nov  3 15:22:37 2021 [pid 22855] [dakota] FAIL LOGIN: Client "::ffff:82.59.13.178"
-Wed Nov  3 15:22:40 2021 [pid 22858] CONNECT: Client "::ffff:82.59.13.178"
-Wed Nov  3 15:22:43 2021 [pid 22857] [user] OK LOGIN: Client "::ffff:82.59.13.178"
-Wed Nov  3 15:22:51 2021 [pid 22860] [user] OK DOWNLOAD: Client "::ffff:82.59.13.178", "/home/user/credentials.txt", 64 bytes, 0.25Kbyte/sec
