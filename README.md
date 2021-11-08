@@ -14,7 +14,7 @@ We therefore decided to write our own parsing function
 
 ## Install dependencies
 
-```pip3 install python-dateutil ndjson```
+```pip3 install -r requirements.txt```
 
 ## How it works
 
