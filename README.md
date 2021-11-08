@@ -4,7 +4,7 @@ This will make your life easier in case you decide to use "json" module in the c
 
 ## Install dependencies
 
-```pip3 install ndjson```
+```pip3 install python-dateutil ndjson```
 
 ## How it works
 By default this script takes the text from the vsftpd.log file present in /var/log/vsftpd.log and creates one in ndjson format called outputNdjson
