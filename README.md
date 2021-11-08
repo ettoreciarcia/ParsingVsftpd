@@ -11,7 +11,7 @@ By default this script takes the text from the vsftpd.log file present in /var/l
 
 If you want to read and write to specific folders use the following command:
 
-```python3 parser.py -i <input.log> -o <output.log>```
+```python3 parser.py -i <input.log> -o <output.ndjson>```
 
 ## Example
 For example, the following line in vsftpd.log
